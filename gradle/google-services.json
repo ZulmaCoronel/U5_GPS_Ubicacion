@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702489177950",
+    "firebase_url": "https://ubicacion-4c2f4.firebaseio.com",
+    "project_id": "ubicacion-4c2f4",
+    "storage_bucket": "ubicacion-4c2f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702489177950:android:4aeda09875ff84e9",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.u5_gps_ubicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702489177950-hmaiu17h9strlpvljsl15qik0m9v9eul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDWNtNhjH3IMj5ge8-5Q_vw36j2RQk_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
